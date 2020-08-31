@@ -9,7 +9,15 @@
   </div>
 </template>
 
-<style>
+<script>
+import './assets/scss/app.scss';
+
+export default {
+  
+}
+</script>
+
+<style lang="scss">
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
